@@ -18,6 +18,12 @@
   "require": {
     "php": ">=5.6.0"
   },
+  "require-dev": {
+
+  },
+  "suggest": {
+
+  },
   "autoload": {
     "psr-4": {
       "niceforbear\\utils\\": "src/"
