@@ -1,5 +1,6 @@
 {
   "name": "niceforbear/utils",
+  "minimum-stability": "dev",
   "description": "Useful common tools",
   "keywords": ["tool", "basic"],
   "homepage": "https://github.com/niceforbear",
