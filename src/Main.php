@@ -18,4 +18,9 @@ class Main
     {
         echo 'tese';
     }
+
+    public static function about()
+    {
+        echo 'stable';
+    }
 }
