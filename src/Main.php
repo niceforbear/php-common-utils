@@ -13,4 +13,9 @@ class Main
     {
         echo date('Y-m-d H:i:s', time()), PHP_EOL;
     }
+
+    public static function test()
+    {
+        echo 'tese';
+    }
 }
