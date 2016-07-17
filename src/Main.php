@@ -6,7 +6,6 @@
 
 namespace niceforbear\utils;
 
-
 class Main
 {
     public static function dumpTs()
